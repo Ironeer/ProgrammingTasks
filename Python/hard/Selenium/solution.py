@@ -9,9 +9,9 @@ from selenium.webdriver.common.action_chains import ActionChains
 
 def main():
     browserDriver = Firefox()
-    #weather(browserDriver)
+    weather(browserDriver)
 
-    hanoi(browserDriver)
+    #hanoi(browserDriver)
 
 def weather(browserDriver):
     browserDriver.get('https://www.wetter.de/')
