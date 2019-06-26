@@ -1,0 +1,6 @@
+Get started with Selenium, a tool to automate Browsing.
+
+1. run selenium_env.sh to create an environment which has selenium installed
+2. run . venv3/bin/activate
+3. Run start.py and see what happens
+4. Understand start.py
